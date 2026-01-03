@@ -1,8 +1,8 @@
 # 365 Days of Code
 Welcome to 365 days of code - coding every day for a year, little and often
 
-<January Open>
-<summary> January <summary>
+<details Open>
+<summary> January </summary>
 
 ## January
 
@@ -12,4 +12,4 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 3 - Get Out of the Command Line](day-3/day-3.md)
 
-<January>
+</details>
