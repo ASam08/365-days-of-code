@@ -3,19 +3,23 @@ from dotenv import load_dotenv
 import requests
 import json
 
-load_dotenv()
+def main():
 
-location = input("Which town or city would you like the current weather for? ")
-urlHead = "http://api.weatherapi.com/v1/current.json?"
-apiKey = "key=" + os.getenv("WEATHER_API_KEY")
-urlLocation = "q=" + location
-url = urlHead + apiKey + "&" + urlLocation + "&aqi=no"
+    load_dotenv()
 
-response = requests.get(url)
-#print(response.json())
+    location = input("Which town or city would you like the current weather for? ")
+    urlHead = "http://api.weatherapi.com/v1/current.json?"
+    apiKey = "key=" + os.getenv("WEATHER_API_KEY")
+    urlLocation = "q=" + location
+    url = urlHead + apiKey + "&" + urlLocation + "&aqi=no"
 
-data = json.loads(response.text)
-if("error" in data):
-    print(f"Error: {data['error']['message']}")
-else:
-    print(f'Currently in {data["location"]["name"]}, {data["location"]["country"]} it\'s {data["current"]["condition"]["text"].lower()} with a temperature of {data["current"]["temp_c"]}°C.')
+    response = requests.get(url)
+
+    data = json.loads(response.text)
+    if("error" in data):
+        print(f"Error: {data['error']['message']}")
+    else:
+        print(f'Currently in {data["location"]["name"]}, {data["location"]["country"]} it\'s {data["current"]["condition"]["text"].lower()} with a temperature of {data["current"]["temp_c"]}°C.')
+
+if __name__ == "__main__":
+    main()

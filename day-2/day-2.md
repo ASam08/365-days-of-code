@@ -1,4 +1,4 @@
-# Welcome 
+# More API's - Flights and JSON
 Welcome to **day 2** of 365 days of code - coding every day for a year, little and often
 
 Advancing a bit on yesterday - Get flight booking options.
