@@ -12,4 +12,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 3 - Get Out of the Command Line](day-3/day-3.md)
 
+[Day 4 - SQLite - Building Blocks](day-4/day-4.md)
+
 </details>
