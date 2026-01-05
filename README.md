@@ -14,4 +14,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 4 - SQLite - Building Blocks](day-4/day-4.md)
 
+[Day 5 - SQLite - Running Not Walking](day-5/day-5.md)
+
 </details>
