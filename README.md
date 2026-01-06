@@ -16,4 +16,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 5 - SQLite - Running Not Walking](day-5/day-5.md)
 
+[Day 6 - Contain It](day-6/day-6.md)
+
 </details>
