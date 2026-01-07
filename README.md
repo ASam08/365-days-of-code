@@ -18,4 +18,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 6 - Contain It](day-6/day-6.md)
 
+[Day 7 - Log It](day-7/day-7.md)
+
 </details>
