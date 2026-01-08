@@ -20,4 +20,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 7 - Log It](day-7/day-7.md)
 
+[Day 8 - Django - Part 1](day-8/day-8.md)
+
 </details>
