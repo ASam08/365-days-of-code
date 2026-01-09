@@ -22,4 +22,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 8 - Django - Part 1](day-8/day-8.md)
 
+[Day 9 - Django - Part 2](day-9/day-9.md)
+
 </details>
