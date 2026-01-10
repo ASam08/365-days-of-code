@@ -15,6 +15,7 @@ jobs:
       - run: echo We are $(( ($(date +%s) - $(date -d "2026-01-01" +%s) ) / (60*60*24) +1)) days into the year
       - name: Current day update check
         if: $(ls ${{ github.workspace }}| grep "day" | sed 's/day-//' | sort -nr | head -n 1) == $(( ($(date +%s) - $(date -d "2026-01-01" +%s) ) / (60*60*24) +1))
+        run: echo "true"
       - name: List files in the repository
         run: |
           ls -r ${{ github.workspace }} | grep "day-" | head -n 1
