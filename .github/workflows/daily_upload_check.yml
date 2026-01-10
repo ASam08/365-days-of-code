@@ -1,0 +1,17 @@
+name: GitHub Actions Demo
+run-name: Daily Upload Check
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo We are $(( ($(date +%s) - $(date -d "2026-01-01" +%s) ) / (60*60*24) +1)) days into the year
+      - name: Current day update check
+        if: $(ls ${{ github.workspace }}| grep "day" | sed 's/day-//' | sort -nr | head -n 1) == $(( ($(date +%s) - $(date -d "2026-01-01" +%s) ) / (60*60*24) +1))
+        env:
+          ntfy_url: ${{ secrets.NTFY_URL }}
+          ntfy_token: ${{ secrets.NTFY_TOKEN }}
+        run: |
+          curl -X POST -H "Authorization: Bearer $ntfy_token" -d "Daily code upload complete" $ntfy_url ; echo true
+      - run: echo "🍏 This job's status is ${{ job.status }}."
