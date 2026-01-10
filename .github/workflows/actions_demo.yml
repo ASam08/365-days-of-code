@@ -19,7 +19,7 @@ jobs:
           ntfy_url: ${{ secrets.NTFY_URL }}
           ntfy_token: ${{ secrets.NTFY_TOKEN }}
         run: |
-          curl -X POST-H "Authorization: Bearer $ntfy_token" -d "Daily code upload complete" $ntfy_url ; echo true
+          curl -X POST -H "Authorization: Bearer $ntfy_token" -d "Daily code upload complete" $ntfy_url ; echo true
       - name: List files in the repository
         run: |
           ls -r ${{ github.workspace }} | grep "day-" | head -n 1
