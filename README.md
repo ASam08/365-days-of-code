@@ -24,4 +24,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 9 - Django - Part 2](day-9/day-9.md)
 
+[Day 10 - Github Actions - Daily Upload Check](day-10/day-10.md)
+
 </details>
