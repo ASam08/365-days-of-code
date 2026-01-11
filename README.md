@@ -26,4 +26,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 10 - Github Actions - Daily Upload Check](day-10/day-10.md)
 
+[Day 11 - Show & Tell](day-11/day-11.md)
+
 </details>

@@ -167,15 +167,8 @@ def set_goal_per_day(conn,cursor):
     total_days_this_year = end_of_year - today
     total_days_this_year = total_days_this_year.days + 1  # Including today
 
-    while True:
-        print("Set your running goal per:\n1. Day\n2. Week\n3. Month\n4. Year")
-        choice = input("Enter the number of your choice: ")
-        if choice.isdigit() and choice in ['1','2','3','4']:
-            break
-        else: 
-            print("Invalid choice. Please select 1, 2, 3 or 4.")
-            logger.warning(f"Invalid goal choice input: {choice}")
-
+    print("Set your running goal per:\n1. Day\n2. Week\n3. Month\n4. Year")
+    choice = input("Enter the number of your choice: ")
     if choice == '1':
         goal_per_day:float = float(input("Enter your running goal per day in km's: "))
     elif choice == '2':
@@ -188,7 +181,9 @@ def set_goal_per_day(conn,cursor):
     elif choice == '4':
         yearly_goal = float(input("Enter your running goal per year in km's: "))
         goal_per_day:float = float(yearly_goal / total_days_this_year)
-        
+    else:
+        print("Invalid choice. Please select 1, 2 or 3.")
+    
     cursor.execute('UPDATE running_goals SET current = FALSE')
     cursor.execute('INSERT INTO running_goals (goal_per_day, current) VALUES (?, TRUE)', (goal_per_day,))
     conn.commit()
