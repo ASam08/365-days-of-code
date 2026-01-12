@@ -28,4 +28,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 11 - Show & Tell](day-11/day-11.md)
 
+[Day 12 - Habits Integration](day-12/day-12.md)
+
 </details>
