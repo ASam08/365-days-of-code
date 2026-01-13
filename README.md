@@ -30,4 +30,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 12 - Habits Integration](day-12/day-12.md)
 
+[Day 13 - Keep Me On Track](day-13/day-13.md)
+
 </details>
