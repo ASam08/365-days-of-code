@@ -32,4 +32,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 13 - Keep Me On Track](day-13/day-13.md)
 
+[Day 14 - Delete Delete Delete](day-14/day-14.md)
+
 </details>
