@@ -34,4 +34,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 14 - Delete Delete Delete](day-14/day-14.md)
 
+[Day 15 - Next.js - Part 1](day-15/day-15.md)
+
 </details>

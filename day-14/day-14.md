@@ -1,5 +1,5 @@
 # Delete Delete Delete
-Welcome to **day 13** of 365 days of code - coding every day for a year, little and often
+Welcome to **day 14** of 365 days of code - coding every day for a year, little and often
 
 Delving further into the running tracker today, and implementing a feature to allow users to delete a run. Maybe it was entered incorrectly, maybe you just can't handle the guilt that you called a walk a run in the tracker, either way, you can now delete a run (and then enter it back in again later).
 

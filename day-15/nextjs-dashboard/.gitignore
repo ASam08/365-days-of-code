@@ -1,26 +1,5 @@
-#Ignore environment variables
-.env
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Ignore database files
-*.db
-*.sqlite3
-
-# Ignore log files
-*.log
-
-# Ignore Python cache files
-__pycache__/
-*.pyc
-
-# Ignore Git files
-.git/
-
-# Ignore ideas file
-
-ideas.md
-
-
-## nextJS ignore rules
 # dependencies
 /node_modules
 /.pnp
