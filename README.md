@@ -36,4 +36,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 15 - Next.js - Part 1](day-15/day-15.md)
 
+[Day 16 - Next.js - Part 2](day-16/day-16.md)
+
 </details>
