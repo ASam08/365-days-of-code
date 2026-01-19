@@ -42,4 +42,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 18 - Next.js - Part 4](day-18/day-18.md)
 
+[Day 19 - Next.js - Part 5](day-19/day-19.md)
+
 </details>
