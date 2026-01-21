@@ -44,4 +44,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 19 - Next.js - Part 5](day-19/day-19.md)
 
+[Day 20 - Basic Next.js - On My Own](day-20/day-20.md)
+
+[Day 21 - Dem Bones](day-21/day-21.md)
+
 </details>
