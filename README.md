@@ -52,4 +52,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 23 - Turning Tables](day-23/day-23.md)
 
+[Day 24 - First Functionality](day-24/day-24.md)
+
 </details>
