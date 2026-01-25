@@ -54,4 +54,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 24 - First Functionality](day-24/day-24.md)
 
+[Day 25 - Fixed The Hover](day-25/day-25.md)
+
 </details>
