@@ -56,4 +56,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 25 - Fixed The Hover](day-25/day-25.md)
 
+[Day 26 - You Can't Win Them All](day-26/day-26.md)
+
 </details>

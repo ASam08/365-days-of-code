@@ -8,4 +8,4 @@ Anyway, I also went ahead and started work on the "create timetable block" form.
 > [!NOTE]
 > For this timetable project I won't be copying the whole codebase into this repo every time I work on it, instead I'll just [link to the repo](https://github.com/ASam08/timetable-app) and even link [direct to the commit here](https://github.com/ASam08/timetable-app/commit/b3abb3fc45c86b47aac461ffde0e3e0599baf7bd) if someone wants to go have a look at that point in time.
 
-![Screenshot of ](day-25.png)
+![Screenshot of a fancy looking form](day-25.png)
