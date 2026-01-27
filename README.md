@@ -58,4 +58,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 26 - You Can't Win Them All](day-26/day-26.md)
 
+[Day 27 - Automate It](day-27/day-27.md)
+
 </details>
