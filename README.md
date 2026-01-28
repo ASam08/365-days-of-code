@@ -60,4 +60,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 27 - Automate It](day-27/day-27.md)
 
+[Day 28 - Just Get It Working](day-28/day-28.md)
+
 </details>
