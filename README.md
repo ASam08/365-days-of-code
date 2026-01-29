@@ -62,4 +62,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 28 - Just Get It Working](day-28/day-28.md)
 
+[Day 29 - It's a Grid](day-29/day-29.md)
+
 </details>
