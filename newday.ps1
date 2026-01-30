@@ -1,5 +1,5 @@
 # Work out how many days into the year it is
-$day = [int](((Get-Date) - (Get-Date -Year (Get-Date).Year -Month 1 -Day 1)).Days) + 1
+$day = [int](Get-Date).DayOfYear
 
 # Create a new folder for today
 $folderName = "day-$day"

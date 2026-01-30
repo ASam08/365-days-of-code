@@ -64,4 +64,6 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 29 - It's a Grid](day-29/day-29.md)
 
+[Day 30 - We Have Data](day-30/day-30.md)
+
 </details>
