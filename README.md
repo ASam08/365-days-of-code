@@ -2,6 +2,17 @@
 Welcome to 365 days of code - coding every day for a year, little and often
 
 <details Open>
+
+<summary> February </summary>
+
+## February
+
+[Day 32 - Delete Delete Delete](day-32/day-32.md)
+
+</details>
+
+<details Closed>
+
 <summary> January </summary>
 
 ## January
