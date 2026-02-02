@@ -9,6 +9,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 32 - Delete Delete Delete](day-32/day-32.md)
 
+[Day 33 - What's Next?](day-33/day-33.md)
+
 </details>
 
 <details Closed>
