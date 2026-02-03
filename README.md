@@ -11,6 +11,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 33 - What's Next?](day-33/day-33.md)
 
+[Day 34 - Make It Responsive](day-34/day-34.md)
+
 </details>
 
 <details Closed>
