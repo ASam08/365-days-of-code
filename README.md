@@ -13,6 +13,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 34 - Make It Responsive](day-34/day-34.md)
 
+[Day 35 - Clean Up, Tidy Up](day-35/day-35.md)
+
 </details>
 
 <details Closed>
