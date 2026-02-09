@@ -13,6 +13,9 @@ $content = Get-Content -Path $newFilePath -Raw
 
 $content = $content -replace "{{DAY_NUMBER}}", $day
 
+$title = Read-Host "What is today's Title? Enter for blank"
+$content = $content -replace "{{TITLE}}", $title
+
 $addTimetableFooter = Read-Host "Do you want to add the timetable footer note? (y/n)"
 if ($addTimetableFooter -eq "y") {
     $timetableFooter = Get-Content -Path "template\timetable-footer.md" -Raw

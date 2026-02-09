@@ -23,6 +23,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 39 - Error Validation](day-39/day-39.md)
 
+[Day 40 - Choices Choices](day-40/day-40.md)
+
 </details>
 
 <details Closed>
