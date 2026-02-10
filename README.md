@@ -25,6 +25,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 40 - Choices Choices](day-40/day-40.md)
 
+[Day 41 - Validation Vindication](day-41/day-41.md)
+
 </details>
 
 <details Closed>
