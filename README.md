@@ -31,6 +31,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 43 - Highlights](day-43/day-43.md)
 
+[Day 44 - Break Time!](day-44/day-44.md)
+
 </details>
 
 <details Closed>
