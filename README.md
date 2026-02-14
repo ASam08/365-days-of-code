@@ -33,6 +33,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 44 - Break Time!](day-44/day-44.md)
 
+[Day 45 - Next Break](day-45/day-45.md)
+
 </details>
 
 <details Closed>
