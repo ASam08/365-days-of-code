@@ -35,6 +35,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 45 - Next Break](day-45/day-45.md)
 
+[Day 46 - Auth Time - Part 1](day-46/day-46.md)
+
 </details>
 
 <details Closed>
