@@ -59,6 +59,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 57 - Tidying Up](day-57/day-57.md)
 
+[Day 58 - More Tidying](day-58/day-58.md)
+
 </details>
 
 <details Closed>
