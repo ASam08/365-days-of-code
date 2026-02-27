@@ -21,6 +21,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 38 - TODO - Tidy Up](day-38/day-38.md)
 
+[Day 39 - Error Validation](day-39/day-39.md)
+
 </details>
 
 <details Closed>
