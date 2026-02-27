@@ -29,6 +29,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 42 - Hours And Minutes](day-42/day-42.md)
 
+[Day 43 - Highlights](day-43/day-43.md)
+
 </details>
 
 <details Closed>
