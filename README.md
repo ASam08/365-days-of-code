@@ -47,6 +47,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 51 - Auth Time - Part 6](day-51/day-51.md)
 
+[Day 52 - Auth Time - Part 7](day-52/day-52.md)
+
 </details>
 
 <details Closed>
