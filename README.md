@@ -27,6 +27,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 41 - Validation Vindication](day-41/day-41.md)
 
+[Day 42 - Hours And Minutes](day-42/day-42.md)
+
 </details>
 
 <details Closed>
