@@ -9,6 +9,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 60 - Just Get In The Middle](day-60/day-60.md)
 
+[Day 61 - Settings - Part 1](day-61/day-61.md)
+
 </details>
 
 <details Closed>
