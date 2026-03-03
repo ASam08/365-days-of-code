@@ -11,6 +11,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 61 - Settings - Part 1](day-61/day-61.md)
 
+[Day 62 - Settings - Part 2](day-62/day-62.md)
+
 </details>
 
 <details Closed>
