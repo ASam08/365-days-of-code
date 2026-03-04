@@ -13,6 +13,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 62 - Settings - Part 2](day-62/day-62.md)
 
+[Day 63 - Settings - Part 3](day-63/day-63.md)
+
 </details>
 
 <details Closed>
