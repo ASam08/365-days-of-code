@@ -19,6 +19,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 65 - Settings - Part 5](day-65/day-65.md)
 
+[Day 66 - A Frustrating Day](day-66/day-66.md)
+
 </details>
 
 <details Closed>
