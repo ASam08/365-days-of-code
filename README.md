@@ -21,6 +21,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 66 - A Frustrating Day](day-66/day-66.md)
 
+[Day 67 - I Knew It Would Be Basic](day-67/day-67.md)
+
 </details>
 
 <details Closed>
