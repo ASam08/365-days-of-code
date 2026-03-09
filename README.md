@@ -23,6 +23,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 67 - I Knew It Would Be Basic](day-67/day-67.md)
 
+[Day 68 - It Doesn't Have To Be Fancy](day-68/day-68.md)
+
 </details>
 
 <details Closed>
