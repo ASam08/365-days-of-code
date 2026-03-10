@@ -25,6 +25,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 68 - It Doesn't Have To Be Fancy](day-68/day-68.md)
 
+[Day 69 - 8 Days A Week](day-69/day-69.md)
+
 </details>
 
 <details Closed>
