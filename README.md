@@ -27,6 +27,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 69 - 8 Days A Week](day-69/day-69.md)
 
+[Day 70 - Groundhog Day?](day-70/day-70.md)
+
 </details>
 
 <details Closed>
