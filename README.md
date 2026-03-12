@@ -29,6 +29,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 70 - Groundhog Day?](day-70/day-70.md)
 
+[Day 71 - Learning Learning Learning](day-71/day-71.md)
+
 </details>
 
 <details Closed>
