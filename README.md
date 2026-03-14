@@ -33,6 +33,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 72 - Commit Commit Commit](day-72/day-72.md)
 
+[Day 73 - Slow And Steady](day-73/day-73.md)
+
 </details>
 
 <details Closed>
