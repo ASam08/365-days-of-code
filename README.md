@@ -35,6 +35,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 73 - Slow And Steady](day-73/day-73.md)
 
+[Day 74 - Little Changes](day-74/day-74.md)
+
 </details>
 
 <details Closed>
