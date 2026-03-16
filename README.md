@@ -37,6 +37,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 74 - Little Changes](day-74/day-74.md)
 
+[Day 75 - Unhide It](day-75/day-75.md)
+
 </details>
 
 <details Closed>
