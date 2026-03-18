@@ -41,6 +41,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 76 - Little And Often](day-76/day-76.md)
 
+[Day 77 - Day Of Week Done](day-77/day-77.md)
+
 </details>
 
 <details Closed>
