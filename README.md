@@ -43,6 +43,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 77 - Day Of Week Done](day-77/day-77.md)
 
+[Day 78 - Maintain](day-78/day-78.md)
+
 </details>
 
 <details Closed>
