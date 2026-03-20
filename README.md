@@ -45,6 +45,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 78 - Maintain](day-78/day-78.md)
 
+[Day 79 - One Block At A Time](day-79/day-79.md)
+
 </details>
 
 <details Closed>
