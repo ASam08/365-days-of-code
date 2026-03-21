@@ -47,6 +47,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 79 - One Block At A Time](day-79/day-79.md)
 
+[Day 80 - Type Type Type](day-80/day-80.md)
+
 </details>
 
 <details Closed>
