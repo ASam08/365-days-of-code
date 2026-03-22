@@ -49,6 +49,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 80 - Type Type Type](day-80/day-80.md)
 
+[Day 81 - Sometimes It's Simple](day-81/day-81.md)
+
 </details>
 
 <details Closed>
