@@ -51,6 +51,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 81 - Sometimes It's Simple](day-81/day-81.md)
 
+[Day 82 - Branding](day-82/day-82.md)
+
 </details>
 
 <details Closed>
