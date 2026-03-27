@@ -59,6 +59,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 85 - Drizzle - Part 1](day-85/day-85.md)
 
+[Day 86 - Drizzle - Part 2](day-86/day-86.md)
+
 </details>
 
 <details Closed>
