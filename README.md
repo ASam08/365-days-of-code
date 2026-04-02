@@ -9,6 +9,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 91 - Drizzle - Part 7](day-91/day-91.md)
 
+[Day 92 - Update Everything](day-92/day-92.md)
+
 </details>
 
 <details Closed>
