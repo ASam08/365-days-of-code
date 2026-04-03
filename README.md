@@ -11,6 +11,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 92 - Update Everything](day-92/day-92.md)
 
+[Day 93 - Big Ol' Tidy Up](day-93/day-93.md)
+
 </details>
 
 <details Closed>
