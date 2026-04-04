@@ -13,6 +13,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 93 - Big Ol' Tidy Up](day-93/day-93.md)
 
+[Day 94 - Little Ol' Tidy Up](day-94/day-94.md)
+
 </details>
 
 <details Closed>
