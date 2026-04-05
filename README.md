@@ -15,6 +15,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 94 - Little Ol' Tidy Up](day-94/day-94.md)
 
+[Day 95 - Fix It Up](day-95/day-95.md)
+
 </details>
 
 <details Closed>
