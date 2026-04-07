@@ -17,7 +17,9 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 95 - Fix It Up](day-95/day-95.md)
 
-[Day 06 - Testing - Day 1](day-96/day-96.md)
+[Day 96 - Testing - Day 1](day-96/day-96.md)
+
+[Day 97 - Testing - Day 2](day-97/day-97.md)
 
 </details>
 
