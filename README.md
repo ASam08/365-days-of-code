@@ -21,6 +21,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 97 - Testing - Day 2](day-97/day-97.md)
 
+[Day 98 - Testing - Day 3 - And More](day-98/day-98.md)
+
 </details>
 
 <details Closed>
