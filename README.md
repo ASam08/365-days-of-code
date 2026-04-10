@@ -25,6 +25,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 99 - Testing - Day 4](day-99/day-99.md)
 
+[Day 100 - Testing - Day 5](day-100/day-100.md)]
+
 </details>
 
 <details Closed>
