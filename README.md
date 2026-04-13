@@ -29,7 +29,9 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 101 - Testing - Day 6](day-101/day-101.md)
 
-[Say 102 - Testing - Day 7](day-102/day-102.md)
+[Day 102 - Testing - Day 7](day-102/day-102.md)
+
+[Day 103 - Testing - Day 8](day-103/day-103.md)
 
 </details>
 
