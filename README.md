@@ -33,6 +33,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 103 - Testing - Day 8](day-103/day-103.md)
 
+[Day 104 - Testing - Day 9](day-104/day-104.md)
+
 </details>
 
 <details Closed>
