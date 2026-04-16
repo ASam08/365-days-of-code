@@ -37,6 +37,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 105 - Testing - Day 10](day-105/day-105.md)
 
+[Day 106 - Testing - Day 11](day-106/day-106.md)
+
 </details>
 
 <details Closed>
