@@ -47,6 +47,10 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 110 - Testing - Day 15](day-110/day-110.md)
 
+[Day 111 - Testing - Day 16](day-111/day-111.md)
+
+[Day 112 - Testing - Day 17](day-112/day-112.md)
+
 </details>
 
 <details Closed>
