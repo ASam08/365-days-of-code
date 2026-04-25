@@ -55,6 +55,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 114 - Testing - Day 19 - Done!](day-114/day-114.md)
 
+[Day 115 - Dependabot](day-115/day-115.md)
+
 </details>
 
 <details Closed>
