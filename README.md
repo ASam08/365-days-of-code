@@ -57,6 +57,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 115 - Dependabot](day-115/day-115.md)
 
+[Day 116 - Intermission](day-116/day-116.md)
+
 </details>
 
 <details Closed>
