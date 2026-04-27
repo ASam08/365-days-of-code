@@ -59,6 +59,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 116 - Intermission](day-116/day-116.md)
 
+[Day 117 - Better-Auth - Day 1](day-117/day-117.md)
+
 </details>
 
 <details Closed>
