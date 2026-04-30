@@ -65,6 +65,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 119 - Better-Auth - Day 2](day-119/day-119.md)
 
+[Day 120 - Better-Auth - Day 3](day-120/day-120.md)
+
 </details>
 
 <details Closed>
