@@ -9,6 +9,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 121 - Better-Auth - Day 4](day-121/day-121.md)
 
+[Day 122 - Foreign Keys](day-122/day-122.md)
+
 </details>
 
 <details Closed>
