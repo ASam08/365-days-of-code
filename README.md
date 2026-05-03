@@ -11,6 +11,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 122 - Foreign Keys](day-122/day-122.md)
 
+[Day 123 - Admin Time](day-123/day-123.md)
+
 </details>
 
 <details Closed>
