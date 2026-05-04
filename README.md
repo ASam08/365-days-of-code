@@ -13,6 +13,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 123 - Admin Time](day-123/day-123.md)
 
+[Day 124 - Pagination](day-124/day-124.md)
+
 </details>
 
 <details Closed>
