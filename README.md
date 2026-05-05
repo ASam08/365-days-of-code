@@ -15,6 +15,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 124 - Pagination](day-124/day-124.md)
 
+[Day 125 - Ban/Unban](day-125/day-125.md)
+
 </details>
 
 <details Closed>
