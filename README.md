@@ -17,6 +17,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 125 - Ban/Unban](day-125/day-125.md)
 
+[Day 126 - Danger Zone](day-126/day-126.md)
+
 </details>
 
 <details Closed>
