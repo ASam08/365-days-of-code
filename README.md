@@ -19,6 +19,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 126 - Danger Zone](day-126/day-126.md)
 
+[Day 127 - Protect Thyself](day-127/day-127.md)
+
 </details>
 
 <details Closed>
