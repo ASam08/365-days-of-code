@@ -21,6 +21,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 127 - Protect Thyself](day-127/day-127.md)
 
+[Day 128 - User Edits](day-128/day-128.md)
+
 </details>
 
 <details Closed>
