@@ -27,6 +27,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 130 - Laundry List](day-130/day-130.md)
 
+[Day 131 - Make It Friendly](day-131/day-131.md)
+
 </details>
 
 <details Closed>
