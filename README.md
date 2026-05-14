@@ -33,6 +33,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 133 - Let Me In](day-133/day-133.md)
 
+[Day 134 - Sorted](day-134/day-134.md)
+
 </details>
 
 <details Closed>
