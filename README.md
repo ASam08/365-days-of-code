@@ -43,6 +43,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-138 - Fix It Right](day-138/day-138.md)
 
+[Day-139 - AUTH_ON No More](day-139/day-139.md)
+
 </details>
 
 <details Closed>
