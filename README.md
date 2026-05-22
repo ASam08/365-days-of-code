@@ -49,6 +49,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-141 - Ironing It Out](day-141/day-141.md)
 
+[Day-142 - Tinker Time](day-142/day-142.md)
+
 </details>
 
 <details Closed>
