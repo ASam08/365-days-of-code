@@ -51,6 +51,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-142 - Tinker Time](day-142/day-142.md)
 
+[Day-143 - Well That Works](day-143/day-143.md)
+
 </details>
 
 <details Closed>
