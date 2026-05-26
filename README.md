@@ -57,6 +57,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-145 - Workaround No More](day-145/day-145.md)
 
+[Day-146 - Admin Day](day-146/day-146.md)
+
 </details>
 
 <details Closed>
