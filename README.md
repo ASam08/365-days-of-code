@@ -59,6 +59,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-146 - Admin Day](day-146/day-146.md)
 
+[Day-147 - Small But Steady](day-147/day-147.md)
+
 </details>
 
 <details Closed>
