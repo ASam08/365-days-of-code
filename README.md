@@ -63,6 +63,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-148 - Email - Part 1](day-148/day-148.md)
 
+[Day-149 - Email - Part 2](day-149/day-149.md)
+
 </details>
 
 <details Closed>
