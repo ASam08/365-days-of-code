@@ -7,7 +7,9 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 ## June
 
-[Day-152 - Email Part 5?](day-152/day-152.md)
+[Day-152 - Email - Part 5?](day-152/day-152.md)
+
+[Day-153 - Email - Part 6?](day-153/day-153.md)
 
 </details>
 
