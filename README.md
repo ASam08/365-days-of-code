@@ -17,6 +17,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-156 - Definitely Not Email - Part 3](day-156/day-156.md)
 
+[Day-157 - Email - Part 7](day-157/day-157.md)
+
 </details>
 
 <details closed>
