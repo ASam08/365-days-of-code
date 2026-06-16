@@ -37,6 +37,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-166 - More Updates](day-166/day-166.md)
 
+[Day-167 - It's In The Edit](day-167/day-167.md)
+
 </details>
 
 <details closed>
