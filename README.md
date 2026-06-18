@@ -41,6 +41,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-168 - Reduce Reuse Recycle](day-168/day-168.md)
 
+[Day-169 - Formulating](day-169/day-169.md)
+
 </details>
 
 <details closed>
