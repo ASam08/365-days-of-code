@@ -43,6 +43,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-169 - Formulating](day-169/day-169.md)
 
+[Day-170 - Rendering...Please Wait](day-170/day-170.md)
+
 </details>
 
 <details closed>
