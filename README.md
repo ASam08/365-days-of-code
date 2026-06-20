@@ -45,6 +45,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-170 - Rendering...Please Wait](day-170/day-170.md)
 
+[Day-171 - Tests Again](day-171/day-171.md)
+
 </details>
 
 <details closed>
