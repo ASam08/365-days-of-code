@@ -61,6 +61,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-178 - Central Mocks - Part 6](day-178/day-178.md)
 
+[Day-179 - Central Mocks - Part 7](day-179/day-179.md)
+
 </details>
 
 <details closed>
