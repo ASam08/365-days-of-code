@@ -17,6 +17,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-186 - Card Tests](day-186/day-186.md)
 
+[Day-187 - Test Fixes](day-187/day-187.md)
+
 </details>
 
 <details closed>
