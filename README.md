@@ -19,6 +19,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-187 - Test Fixes](day-187/day-187.md)
 
+[Day-188 - Tests Done](day-188/day-188.md)
+
 </details>
 
 <details closed>
