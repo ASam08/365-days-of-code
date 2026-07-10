@@ -23,6 +23,10 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-189 - Multiple Timetables Done](day-189/day-189.md)
 
+[Day-190 - Pnpm Lock](day-190/day-190.md)
+
+[Day-191 - Timetable Tweaks](day-191/day-191.md)
+
 </details>
 
 <details closed>
