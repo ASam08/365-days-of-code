@@ -27,6 +27,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-191 - Timetable Tweaks](day-191/day-191.md)
 
+[Day-192 - Described](day-192/day-192.md)
+
 </details>
 
 <details closed>
