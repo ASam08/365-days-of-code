@@ -29,6 +29,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-192 - Described](day-192/day-192.md)
 
+[Day-193 - Moving Around](day-193/day-193.md)
+
 </details>
 
 <details closed>
