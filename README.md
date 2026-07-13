@@ -31,6 +31,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-193 - Moving Around](day-193/day-193.md)
 
+[Day-194 - Managing Sets](day-194/day-194.md)
+
 </details>
 
 <details closed>
