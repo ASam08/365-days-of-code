@@ -37,6 +37,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-196 - Edit Sets](day-196/day-196.md)
 
+[Day-197 - Hello Testing My Old Friend](day-197/day-197.md)
+
 </details>
 
 <details closed>
