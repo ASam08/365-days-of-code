@@ -43,6 +43,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-199 - Avatar (Not the movie)](day-199/day-199.md)
 
+[Day-200 - Avatar Admin](day-200/day-200.md)
+
 </details>
 
 <details closed>
