@@ -45,6 +45,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-200 - Avatar Admin](day-200/day-200.md)
 
+[Day-201 - Account Page](day-201/day-201.md)
+
 </details>
 
 <details closed>
