@@ -47,6 +47,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-201 - Account Page](day-201/day-201.md)
 
+[Day-202 - Account Logic](day-202/day-202.md)
+
 </details>
 
 <details closed>
