@@ -51,6 +51,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-203 - Change Validation](day-203/day-203.md)
 
+[Day-204 - Avatar Testing](day-204/day-204.md)
+
 </details>
 
 <details closed>
