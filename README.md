@@ -53,6 +53,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-204 - Avatar Testing](day-204/day-204.md)
 
+[Day-205 - SideNav -> TopNav](day-205/day-205.md)
+
 </details>
 
 <details closed>
