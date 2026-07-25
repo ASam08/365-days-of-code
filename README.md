@@ -55,6 +55,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-205 - SideNav -> TopNav](day-205/day-205.md)
 
+[Day-206 - Topnav Tweaks](day-206/day-206.md)
+
 </details>
 
 <details closed>
