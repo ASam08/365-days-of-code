@@ -59,6 +59,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-207 - More Topnav Tweaks](day-207/day-207.md)
 
+[Day-208 - Topnav Tests](day-208/day-208.md)
+
 </details>
 
 <details closed>
