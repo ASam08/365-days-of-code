@@ -63,6 +63,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-209 - More Topnav Testing](day-209/day-209.md)
 
+[Day-210 - Update Everything](day-210/day-210.md)
+
 </details>
 
 <details closed>
