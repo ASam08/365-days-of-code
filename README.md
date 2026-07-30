@@ -65,6 +65,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-210 - Update Everything](day-210/day-210.md)
 
+[Day-211 - Hello Base UI](day-211/day-211.md)
+
 </details>
 
 <details closed>
