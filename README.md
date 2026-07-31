@@ -67,6 +67,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-211 - Hello Base UI](day-211/day-211.md)
 
+[Day-212 - Goodbye Radix UI](day-212/day-212.md)
+
 </details>
 
 <details closed>
