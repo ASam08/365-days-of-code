@@ -13,6 +13,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-215 - UI Bugs](day-215/day-215.md)
 
+[Day-216 - UI Tests](day-216/day-216.md)
+
 </details>
 
 <details Closed>
