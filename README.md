@@ -15,6 +15,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-216 - UI Tests](day-216/day-216.md)
 
+[Day-217 - Base UI Done](day-217/day-217.md)
+
 </details>
 
 <details Closed>
