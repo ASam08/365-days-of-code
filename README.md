@@ -19,6 +19,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-218 - Cheers To Deletion](day-218/day-218.md)
 
+[Day-219 - Toast Tests](day-219/day-219.md)
+
 </details>
 
 <details Closed>
