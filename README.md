@@ -23,6 +23,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-220 - Colour Picker](day-220/day-220.md)
 
+[Day-221 - Colour Picker Refined](day-221/day-221.md)
+
 </details>
 
 <details Closed>
