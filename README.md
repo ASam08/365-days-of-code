@@ -25,6 +25,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-221 - Colour Picker Refined](day-221/day-221.md)
 
+[Day-222 - Let There Be Colour](day-222/day-222.md)
+
 </details>
 
 <details Closed>
