@@ -31,6 +31,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-224 - Colours Released](day-224/day-224.md)
 
+[Day-225 - Choose Your Subject](day-225/day-225.md)
+
 </details>
 
 <details Closed>
