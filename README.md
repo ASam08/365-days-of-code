@@ -33,6 +33,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-225 - Choose Your Subject](day-225/day-225.md)
 
+[Day-226 - Autocomplete](day-226/day-226.md)
+
 </details>
 
 <details Closed>
