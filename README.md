@@ -37,6 +37,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-227 - Autocomplete Clear](day-227/day-227.md)
 
+[Day-228 - Autocomplete Mock](day-228/day-228.md)
+
 </details>
 
 <details Closed>
