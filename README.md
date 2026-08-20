@@ -45,6 +45,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-231 - Can You Fix It?](day-231/day-231.md)
 
+[Day-232 - Tidy Up Migrations](day-232/day-232.md)
+
 </details>
 
 <details Closed>
