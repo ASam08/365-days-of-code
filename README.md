@@ -49,6 +49,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-233 - Tidy Up Migrations Tests](day-233/day-233.md)
 
+[Day-234 - Time Bar](day-234/day-234.md)
+
 </details>
 
 <details Closed>
