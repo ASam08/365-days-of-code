@@ -53,6 +53,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-235 - A More Accurate Time Bar](day-235/day-235.md)
 
+[Day-236 - Time Bar Tests](day-236/day-236.md)
+
 </details>
 
 <details Closed>
