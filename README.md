@@ -55,6 +55,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-236 - Time Bar Tests](day-236/day-236.md)
 
+[Day-237 - Email Change](day-237/day-237.md)
+
 </details>
 
 <details Closed>
