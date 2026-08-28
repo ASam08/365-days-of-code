@@ -61,6 +61,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-239 - Prove Yourself Again](day-239/day-239.md)
 
+[Day-240 - Email Tests](day-240/day-240.md)
+
 </details>
 
 <details Closed>
