@@ -63,6 +63,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-240 - Email Tests](day-240/day-240.md)
 
+[Day-241 - What Do You Mean "User Not Found"](day-241/day-241.md)
+
 </details>
 
 <details Closed>
