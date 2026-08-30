@@ -65,6 +65,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-241 - What Do You Mean "User Not Found"](day-241/day-241.md)
 
+[Day-242 - What Was That Colour?](day-242/day-242.md)
+
 </details>
 
 <details Closed>
