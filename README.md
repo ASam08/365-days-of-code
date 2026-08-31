@@ -67,6 +67,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-242 - What Was That Colour?](day-242/day-242.md)
 
+[Day-243 - Controlled Colour](day-243/day-243.md)
+
 </details>
 
 <details Closed>
