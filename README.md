@@ -11,6 +11,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day 245 - Last Colour Tests](day-245/day-245.md)
 
+[Day-246 - Jest Bugs](day-246/day-246.md)
+
 </details>
 
 <details Closed>
