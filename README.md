@@ -13,6 +13,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-246 - Jest Bugs](day-246/day-246.md)
 
+[Day-247 - Jest Bugs - Day 2](day-247/day-247.md)
+
 </details>
 
 <details Closed>
