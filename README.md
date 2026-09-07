@@ -19,6 +19,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-249 - Jest Bugs - Day 4 - Hooray!](day-249/day-249.md)
 
+[Day-250 - Wardrobe App - New Beginnings](day-250/day-250.md)
+
 </details>
 
 <details Closed>
