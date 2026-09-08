@@ -21,6 +21,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-250 - Wardrobe App - New Beginnings](day-250/day-250.md)
 
+[Day-251 - Garage Setup](day-251/day-251.md)
+
 </details>
 
 <details Closed>
