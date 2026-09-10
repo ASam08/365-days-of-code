@@ -25,6 +25,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-252 - DB & Drizzle Time](day-252/day-252.md)
 
+[Day-253 - More Drizzle Config](day-253/day-253.md)
+
 </details>
 
 <details Closed>
