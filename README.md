@@ -27,6 +27,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-253 - More Drizzle Config](day-253/day-253.md)
 
+[Day-254 - Auth Time](day-254/day-254.md)
+
 </details>
 
 <details Closed>
