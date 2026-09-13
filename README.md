@@ -31,6 +31,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-255 - Roll Up, Roll Up](day-255/day-255.md)
 
+[Day-256 - Sign Me Up!](day-256/day-256.md)
+
 </details>
 
 <details Closed>
