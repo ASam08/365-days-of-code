@@ -33,6 +33,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-256 - Sign Me Up!](day-256/day-256.md)
 
+[Day-257 - Lotto Time](day-257/day-257.md)
+
 </details>
 
 <details Closed>
