@@ -35,6 +35,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-257 - Lotto Time](day-257/day-257.md)
 
+[Day-258 - Login Logic](day-258/day-258.md)
+
 </details>
 
 <details Closed>
