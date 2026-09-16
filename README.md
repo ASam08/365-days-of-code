@@ -37,6 +37,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-258 - Login Logic](day-258/day-258.md)
 
+[Day-259 - Home Time](day-259/day-259.md)
+
 </details>
 
 <details Closed>
