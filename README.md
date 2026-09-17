@@ -39,6 +39,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-259 - Home Time](day-259/day-259.md)
 
+[Day-260 - Bits And Pieces](day-260/day-260.md)
+
 </details>
 
 <details Closed>
