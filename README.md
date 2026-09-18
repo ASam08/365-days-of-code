@@ -41,6 +41,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-260 - Bits And Pieces](day-260/day-260.md)
 
+[Day-261 - Ground Work](day-261/day-261.md)
+
 </details>
 
 <details Closed>
