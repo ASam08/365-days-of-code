@@ -43,6 +43,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-261 - Ground Work](day-261/day-261.md)
 
+[Day-262 - Categories Seeding](day-262/day-262.md)
+
 </details>
 
 <details Closed>
