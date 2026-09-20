@@ -45,6 +45,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-262 - Categories Seeding](day-262/day-262.md)
 
+[Day-263 - React Hook Forms](day-263/day-263.md)
+
 </details>
 
 <details Closed>
