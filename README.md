@@ -51,6 +51,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-265 - Create Category](day-265/day-265.md)
 
+[Day-266 - Create Item](day-266/day-266.md)
+
 </details>
 
 <details Closed>
