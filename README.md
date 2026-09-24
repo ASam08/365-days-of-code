@@ -53,6 +53,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-266 - Create Item](day-266/day-266.md)
 
+[Day-267 - Nothing](day-267/day-267.md)
+
 </details>
 
 <details Closed>
