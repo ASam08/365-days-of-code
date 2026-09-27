@@ -59,6 +59,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-269 - Nothing X3](day-269/day-269.md)
 
+[Day-270 - Nothin Week](day-270/day-270.md)
+
 </details>
 
 <details Closed>
