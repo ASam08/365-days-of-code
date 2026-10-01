@@ -3,6 +3,16 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 <details Open>
 
+<summary> October </summary>
+
+## October
+
+[day-274 - Tidy Up Time](day-274/day-274.md)
+
+</details>
+
+<details Closed>
+
 <summary> September </summary>
 
 ## September
