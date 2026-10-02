@@ -7,7 +7,9 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 ## October
 
-[day-274 - Tidy Up Time](day-274/day-274.md)
+[Day-274 - Tidy Up Time](day-274/day-274.md)
+
+[Day-275 - Remember The Ways](day-275/day-275.md)
 
 </details>
 
