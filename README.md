@@ -11,6 +11,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-275 - Remember The Ways](day-275/day-275.md)
 
+[Day-276 - Spaced Out](day-276/day-276.md)
+
 </details>
 
 <details Closed>
