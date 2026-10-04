@@ -13,6 +13,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-276 - Spaced Out](day-276/day-276.md)
 
+[Day-277 - Go Get It](day-277/day-277.md)
+
 </details>
 
 <details Closed>
