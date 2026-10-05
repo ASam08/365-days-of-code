@@ -15,6 +15,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-277 - Go Get It](day-277/day-277.md)
 
+[Day-278 - Grid Time](day-278/day-278.md)
+
 </details>
 
 <details Closed>
