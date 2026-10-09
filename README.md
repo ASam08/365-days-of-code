@@ -23,6 +23,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-281 - It's A Grid](day-281/day-281.md)
 
+[Day-282 - Colour Basics](day-282/day-282.md)
+
 </details>
 
 <details Closed>
