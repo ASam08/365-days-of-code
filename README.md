@@ -25,6 +25,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-282 - Colour Basics](day-282/day-282.md)
 
+[Day-283 - Colour Swatch](day-283/day-283.md)
+
 </details>
 
 <details Closed>
