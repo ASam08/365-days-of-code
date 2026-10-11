@@ -27,6 +27,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-283 - Colour Swatch](day-283/day-283.md)
 
+[Day-284 - Spell It Right](day-284/day-284.md)
+
 </details>
 
 <details Closed>
