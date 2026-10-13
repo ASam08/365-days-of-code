@@ -31,6 +31,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-285 - Multicolour](day-285/day-285.md)
 
+[Day-286 - Create Category](day-286/day-286.md)
+
 </details>
 
 <details Closed>
