@@ -33,6 +33,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-286 - Create Category](day-286/day-286.md)
 
+[Day-287 - Updates](day-287/day-287.md)
+
 </details>
 
 <details Closed>
