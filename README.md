@@ -35,6 +35,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-287 - Updates](day-287/day-287.md)
 
+[Day-288 - S3](day-288/day-288.md)
+
 </details>
 
 <details Closed>
