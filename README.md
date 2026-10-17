@@ -39,6 +39,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-289 - Check Check](day-289/day-289.md)
 
+[Day-290 - CORS](day-290/day-290.md)
+
 </details>
 
 <details Closed>
