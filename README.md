@@ -45,6 +45,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-292 - Taking The Draw](day-292/day-292.md)
 
+[Day-293 - Image Actions](day-293/day-293.md)
+
 </details>
 
 <details Closed>
