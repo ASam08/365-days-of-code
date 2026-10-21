@@ -47,6 +47,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-293 - Image Actions](day-293/day-293.md)
 
+[Day-294 - Image Resize](day-294/day-294.md)
+
 </details>
 
 <details Closed>
