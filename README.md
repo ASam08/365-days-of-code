@@ -51,6 +51,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-295 - Mobile Testing](day-295/day-295.md)
 
+[Day-296 - Putting It All Together](day-296/day-296.md)
+
 </details>
 
 <details Closed>
