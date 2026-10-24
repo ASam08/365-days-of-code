@@ -53,6 +53,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-296 - Putting It All Together](day-296/day-296.md)
 
+[Day-297 - Card Thumbs](day-297/day-297.md)
+
 </details>
 
 <details Closed>
