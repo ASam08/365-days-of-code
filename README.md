@@ -55,6 +55,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-297 - Card Thumbs](day-297/day-297.md)
 
+[Day-298 - Delete Item](day-298/day-298.md)
+
 </details>
 
 <details Closed>
