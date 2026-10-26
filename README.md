@@ -57,6 +57,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-298 - Delete Item](day-298/day-298.md)
 
+[Day-299 - Sweep It Up](day-299/day-299.md)
+
 </details>
 
 <details Closed>
