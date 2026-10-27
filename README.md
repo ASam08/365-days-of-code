@@ -59,6 +59,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-299 - Sweep It Up](day-299/day-299.md)
 
+[Day-300 - Short Day](day-300/day-300.md)
+
 </details>
 
 <details Closed>
