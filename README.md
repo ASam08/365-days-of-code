@@ -61,6 +61,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-300 - Short Day](day-300/day-300.md)
 
+[Day-301 - Detail Card](day-301/day-301.md)
+
 </details>
 
 <details Closed>
