@@ -63,6 +63,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-301 - Detail Card](day-301/day-301.md)
 
+[Day-302 - UI Tweaks](day-302/day-302.md)
+
 </details>
 
 <details Closed>
