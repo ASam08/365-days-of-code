@@ -67,6 +67,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-303 - File Button](day-303/day-303.md)
 
+[Day-304 - One Form, Two Uses](day-304/day-304.md)
+
 </details>
 
 <details Closed>
