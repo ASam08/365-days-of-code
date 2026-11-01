@@ -3,6 +3,16 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 <details Open>
 
+<summary> November </summary>
+
+## November
+
+[Day-305 - Type Type](day-305/day-305.md)
+
+</details>
+
+<details Closed>
+
 <summary> October </summary>
 
 ## October
