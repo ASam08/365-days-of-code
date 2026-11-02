@@ -9,6 +9,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-305 - Type Type](day-305/day-305.md)
 
+[Day-306 - Update Items](day-306/day-306.md)
+
 </details>
 
 <details Closed>
