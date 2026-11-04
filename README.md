@@ -13,6 +13,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-307 - Update Item UI](day-307/day-307.md)
 
+[Day-308 - More Item Edits](day-308/day-308.md)
+
 </details>
 
 <details Closed>
