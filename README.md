@@ -15,6 +15,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-308 - More Item Edits](day-308/day-308.md)
 
+[Day-309 - Delete Image](day-309/day-309.md)
+
 </details>
 
 <details Closed>
