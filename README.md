@@ -19,6 +19,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-310 - Replace Image](day-310/day-310.md)
 
+[Day-311 - Filter UI](day-311/day-311.md)
+
 </details>
 
 <details Closed>
