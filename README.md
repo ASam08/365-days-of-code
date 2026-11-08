@@ -21,6 +21,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-311 - Filter UI](day-311/day-311.md)
 
+[Day-312 - Search Params](day-312/day-312.md)
+
 </details>
 
 <details Closed>
