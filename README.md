@@ -23,6 +23,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-312 - Search Params](day-312/day-312.md)
 
+[Day-313 - Grid Filter](day-313/day-313.md)
+
 </details>
 
 <details Closed>
