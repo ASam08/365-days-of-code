@@ -25,6 +25,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-313 - Grid Filter](day-313/day-313.md)
 
+[Day-314 - Clear Filters](day-314/day-314.md)
+
 </details>
 
 <details Closed>
