@@ -33,6 +33,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-317 - React Hook Account Form](day-317/day-317.md)
 
+[Day-318 - Admin Page](day-318/day-318.md)
+
 </details>
 
 <details Closed>
