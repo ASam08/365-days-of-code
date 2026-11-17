@@ -39,6 +39,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-320 - Admin Actions](day-320/day-320.md)
 
+[Day-321 - Admin Edit User](day-321/day-321.md)
+
 </details>
 
 <details Closed>
