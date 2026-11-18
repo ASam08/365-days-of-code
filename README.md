@@ -41,6 +41,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-321 - Admin Edit User](day-321/day-321.md)
 
+[Day-322 - Admin Harden](day-322/day-322.md)
+
 </details>
 
 <details Closed>
