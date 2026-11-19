@@ -43,6 +43,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-322 - Admin Harden](day-322/day-322.md)
 
+[Day-323 - Suspense](day-323/day-323.md)
+
 </details>
 
 <details Closed>
