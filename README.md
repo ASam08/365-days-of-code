@@ -49,6 +49,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-325 - Docker!](day-325/day-325.md)
 
+[Day-326 - Packages Packages](day-326/day-326.md)
+
 </details>
 
 <details Closed>
