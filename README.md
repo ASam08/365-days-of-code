@@ -51,6 +51,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-326 - Packages Packages](day-326/day-326.md)
 
+[Day-327 - Doco Day](day-327/day-327.md)
+
 </details>
 
 <details Closed>
