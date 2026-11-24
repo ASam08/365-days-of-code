@@ -53,6 +53,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-327 - Doco Day](day-327/day-327.md)
 
+[Day-328 - More CI](day-328/day-328.md)
+
 </details>
 
 <details Closed>
