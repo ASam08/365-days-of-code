@@ -55,6 +55,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-328 - More CI](day-328/day-328.md)
 
+[Day-329 - Share What's New](day-329/day-329.md)
+
 </details>
 
 <details Closed>
