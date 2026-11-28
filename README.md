@@ -61,6 +61,8 @@ Welcome to 365 days of code - coding every day for a year, little and often
 
 [Day-331 - Back To Tests](day-331/day-331.md)
 
+[Day-332 - More Toast](day-332/day-332.md)
+
 </details>
 
 <details Closed>
